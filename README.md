@@ -5,7 +5,7 @@ An easy program to detect Trojans running on your computer and get their connect
 
 - This program was made to scan and deal with Trojan on your device, and **I am not responsible for any illegal use of this program**.
 
-## For better performance, run the program as `administrator`.
+#### - For better performance, run the program as `administrator`.
 
 - **Main:**
 
